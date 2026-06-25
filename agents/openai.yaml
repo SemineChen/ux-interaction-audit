@@ -1,0 +1,4 @@
+interface:
+  display_name: "UX Interaction Audit"
+  short_description: "用中文评估界面截图、设计稿或页面描述，输出结构化 UX 报告、交互合理性判断和默认图片标注建议。"
+  default_prompt: "上传界面截图或描述页面，我会使用 UX Interaction Audit 按 9 个 UX 层面评估体验，判断交互是否合理，并默认给出问题标注和修改建议对比。"
