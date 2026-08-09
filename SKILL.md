@@ -1,5 +1,5 @@
 ---
-name: ux-interaction-audit
+name: ux-audit
 description: "UX Interaction Audit: Chinese structured UX evaluation assistant and local browser UI for interface screenshots, product design mockups, web/app page screenshots, and page descriptions. Use when the user asks to evaluate UX, interaction design, usability, page clarity, conversion flow, forms, accessibility, trust risk, design improvement, or to open/use the UX audit interface in a browser. Produces Chinese UX audit reports across 9 UX layers, judges interaction reasonableness, and when images are provided defaults to problem annotation and revision-comparison guidance unless the user opts out."
 ---
 

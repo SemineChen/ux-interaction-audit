@@ -1,4 +1,4 @@
 interface:
   display_name: "用户体验"
   short_description: "审查界面截图与交互流程，给出清晰的体验问题和修改建议。"
-  default_prompt: "使用 $ux-interaction-audit 审查这张界面截图，指出体验问题并给出修改建议。"
+  default_prompt: "使用 $ux-audit 审查这张界面截图，指出体验问题并给出修改建议。"

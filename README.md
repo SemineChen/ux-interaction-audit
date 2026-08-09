@@ -1,4 +1,4 @@
-# UX Interaction Audit
+# UX Audit
 
 中文 UX / 交互合理性审查 Codex Skill。
 
@@ -61,15 +61,15 @@
 ## 推荐调用方式
 
 ```text
-使用 $ux-interaction-audit 审查这张界面截图，指出体验问题并给出修改建议。
+使用 $ux-audit 审查这张界面截图，指出体验问题并给出修改建议。
 ```
 
 ```text
-使用 $ux-interaction-audit 评估这张图，并生成一张前后对比标注看板：左侧放修改前原图，右侧放修改后建议示意图，中间放 6-10 条编号改动清单，每条包含问题标题和一句修改建议，箭头指向修改后对应区域。截图保持等比，不拉伸、不裁切。
+使用 $ux-audit 评估这张图，并生成一张前后对比标注看板：左侧放修改前原图，右侧放修改后建议示意图，中间放 6-10 条编号改动清单，每条包含问题标题和一句修改建议，箭头指向修改后对应区域。截图保持等比，不拉伸、不裁切。
 ```
 
 ```text
-使用 $ux-interaction-audit 做完整审查，并展开 9 大 UX 层面、完整自检和参考来源 URL。
+使用 $ux-audit 做完整审查，并展开 9 大 UX 层面、完整自检和参考来源 URL。
 ```
 
 ## 安装
@@ -78,13 +78,13 @@
 
 ```bash
 mkdir -p ~/.codex/skills
-git clone https://github.com/SemineChen/ux-interaction-audit.git ~/.codex/skills/ux-interaction-audit
+git clone https://github.com/SemineChen/ux-interaction-audit.git ~/.codex/skills/ux-audit
 ```
 
 如果已经安装过，更新即可：
 
 ```bash
-cd ~/.codex/skills/ux-interaction-audit
+cd ~/.codex/skills/ux-audit
 git pull
 ```
 
